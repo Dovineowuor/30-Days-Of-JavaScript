@@ -80,3 +80,8 @@ var three = 3;
 var d = "D!";
 console.log(now + three + d); // "Now in 3D!"
 // Task 6
+
+var i = 7;
+i += 1;
+i += 2;
+console.log(i);
