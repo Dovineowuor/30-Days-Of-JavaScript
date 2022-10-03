@@ -20,3 +20,5 @@ console.log(22 % 5); // true
 "note" + "book" // "notebook" true
 365 + " days" // "365 days"
 12 + " months" // "12 months"
+var score = 8
+console.log(score >0 && score<10) //true
