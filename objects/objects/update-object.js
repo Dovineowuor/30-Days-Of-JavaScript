@@ -1,7 +1,7 @@
-var house2 = {};
-house2.rooms = 4;
-house2.color = "Orange";
-house2.priceUSD = 1000;
+var house = {};
+house.rooms = 4;
+house.color = "Orange";
+house.priceUSD = 1000;
 house.size = "large";
 console.log(house)
 house.windows = 15;
