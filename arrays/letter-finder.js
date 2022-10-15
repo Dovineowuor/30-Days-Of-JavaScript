@@ -1,6 +1,6 @@
 #!/bin/bash
-const test = [" I love JavaScript, It is a relationship where we dont utter any word but each one of us move out satisfied"] 
-function letterFinder(word, match) {
+const test = " I love JavaScript, It is a relationship where we dont utter any word but each one of us move out satisfied"
+function letterFinder(word, match) 
     for var i = 0; i < word.length; i++) {
 	    if (word[i] == match) {console.log("Yay! We found the", match, "at" i)}
     else {
