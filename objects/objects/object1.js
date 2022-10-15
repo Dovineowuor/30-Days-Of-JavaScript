@@ -7,6 +7,8 @@ var assistantManager = {
     proficiency: 200
     role: 180
 }
+storeManager.nextAchievement = "open a new store"
+assistantManager.nextAchievement = "get promoted"
 
 console.log(assistantManager)
 
