@@ -6,3 +6,4 @@ var assistantManager = {
     specialAbility: "young and ambitious",
     greeting: "Let's make some money"
 }
+console.log(assistantManager)
