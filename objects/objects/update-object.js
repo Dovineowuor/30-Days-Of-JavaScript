@@ -1,3 +1,4 @@
+// Dot object notation
 var house = {};
 house.rooms = 4;
 house.color = "Orange";
