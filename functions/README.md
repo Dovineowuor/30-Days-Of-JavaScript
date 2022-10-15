@@ -1,0 +1,1 @@
+Functions application in js
