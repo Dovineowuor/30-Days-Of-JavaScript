@@ -1,11 +1,11 @@
 #!/bin/node
 var assistantManager = {
-    movement: Fast
-    socialSkills: Good Socialite
+    movement: 200
+    socialSkills: 98
     streetSmarts: 50
     health: 60
-    proficiency: Highly Proficient
-    role: Management
+    proficiency: 200
+    role: 180
 }
 
 console.log(assistantManager)
