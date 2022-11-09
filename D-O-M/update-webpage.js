@@ -5,4 +5,5 @@ const h2 = document.createElement('h2');
     h2.innerText = "Welcome To DOM framework";
     h2.setAttribute = ("id", SubHeading);
     h2.setAtribute = ("class", Secondary);
-h2
+    // Appending the changes to the html document
+    document.body.appendChild(h2)
