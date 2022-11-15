@@ -4,5 +4,5 @@ function swap(x,y){
     y=x;
     return[x,y];
 }
-console.log(swap(2,3);
+console.log(swap(2,3)
 
